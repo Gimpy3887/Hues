@@ -8,10 +8,16 @@ Change your role’s color, role’s icon, and role’s name in just a single ro
 #### `/createcustomrole`
 The creme de la creme of the bot: a powerful command that creates your custom role and assigns it to you where you have the option to choose: the role’s name, the role’s color, or the role’s icon.
 
+![Create a custom role visual with icon](https://github.com/user-attachments/assets/c3de9ccc-a0c8-4540-ad96-34d1e0e66465)
+
+
 ![Create a custom role visual](https://github.com/user-attachments/assets/78ca6e37-23a8-4c5a-8819-03f08f3fb1d2)
 
 #### `/editcustomrole`
 You’re not happy with how things turned out for your role? Well, you can use this command to change it.
+
+![Editing the custom role visual with icon](https://github.com/user-attachments/assets/4feabf40-4c0f-4e89-95ef-ff18bda94c2c)
+
 
 ![Editing the custom role visual](https://github.com/user-attachments/assets/4407f00c-74fc-4d59-b82a-e9e98aea615d)
 
