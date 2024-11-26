@@ -41,6 +41,14 @@ Removes a custom role connection from our records and the user's profile.
 
 ![Disconnect a user's role visual](https://github.com/user-attachments/assets/c1030aa7-4f15-4344-92f9-743cebfda799)
 
+#### `/spotify_embed`
+Displays a spotify track or album using a detailed rich embed.
+
+#### Album
+![Rich embed a spotify album.](https://github.com/user-attachments/assets/31045b78-8830-4559-a796-8cce3de09d30)
+#### Track
+![Rich embed a spotify track.](https://github.com/user-attachments/assets/2e719638-6ece-4e75-9b70-7a368507c6ae)
+
 #### `/help`
 Displays general information about the bot and where you can go for support.
 
