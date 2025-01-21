@@ -41,6 +41,12 @@ Removes a custom role connection from our records and the user's profile.
 
 ![Disconnect a user's role visual](https://github.com/user-attachments/assets/c1030aa7-4f15-4344-92f9-743cebfda799)
 
+#### `/stealcustomrole`
+When you want what your server friends have: allows you to steal their role's color, role's name, or role's icon.
+
+![stealcustomrole command visual](https://github.com/user-attachments/assets/2f55502a-c859-4ea4-92f9-abad7b65e7d6)
+
+
 #### `/spotify_embed`
 Displays a spotify track or album using a detailed rich embed.
 
